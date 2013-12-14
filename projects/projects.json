@@ -1609,6 +1609,18 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Cloudtub",
+      "thumb": "Cloudtub/thumb.png",
+      "desc": "Cloudtub is Cloud storage web app built in laravel 4 and MongoDB and AngularJS as Frontend.",
+      "url": "http://www.cloudtub.com",
+      "info": "http://www.cloudtub.com",
+      "submitter": "Abhishek gahlot",
+      "submissionDate": "2013-12-14",
+      "tags": [
+        "Productivity", "Laravel","Cloud Storage","MongoDB","Bootstrap","AngularJS"
+      ]
     }
   ]
 }
