@@ -1613,7 +1613,7 @@
     {
       "name": "Cloudtub",
       "thumb": "Cloudtub/thumb.png",
-      "desc": "Cloudtub is Cloud storage web app built in laravel 4 and MongoDB and AngularJS as Frontend.",
+      "desc": "Cloudtub is Cloud storage web app built in laravel 4 ,MongoDB and AngularJS as Frontend.",
       "url": "http://www.cloudtub.com",
       "info": "http://www.cloudtub.com",
       "submitter": "Abhishek gahlot",
